@@ -1,0 +1,1 @@
+# bye-npm-package
